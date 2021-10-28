@@ -1,3 +1,6 @@
-#include "main.h"
+#include <stdio.h>
 
-int main() { return 0; }
+int main() {
+  printf("Hello World");
+  return 0;
+}
