@@ -24,11 +24,5 @@ int main() {
   sub(29, 39);
   return 0;
 }
-
 int doseSomething() {
-  // there needs to be some cod
-  // in this
-  // function
-  // some one plese do my work
-  // fore me
 }
